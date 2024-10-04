@@ -1,0 +1,46 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+iron_dome
+projectile_test
+
+#IPython
+*.ipynb_checkpoints
+
+# IntelliJ
+.idea/
+
+# Build folders
+build_dbg/
+build_rel/
+
+scl-repo
+
+specs/Kuka/
+specs/iiwa/
+zmq-test/
